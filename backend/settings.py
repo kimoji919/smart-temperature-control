@@ -20,13 +20,13 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # See https://docs.djangoproject.com/en/3.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'cl@70j$m569l%%)pkujpsjamvyu$v=vftf!86^okf3&obu609o'
+SECRET_KEY = ''
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-APP_ID = 'wxd660f119583a124a'
-APP_SECRET = 'ae48e8529ceb1895ec9fc6757a2212cb'
+APP_ID = ''
+APP_SECRET = ''
 
 # python 设置并获取环境变量
 JWT_SECRET = 'sadfj;sdakf;'
